@@ -1,0 +1,54 @@
+{
+	"name": "ToDo/login.waPage/index.html",
+	"type": "page",
+	"version": "1.0.0",
+	"loadDependencies": [
+		{
+			"id": "Desktop_Core",
+			"version": "1.0.0",
+			"type": "core"
+		},
+		{
+			"id": "Widget/label",
+			"type": "widget"
+		},
+		{
+			"id": "Widget/container",
+			"type": "widget"
+		},
+		{
+			"package": "default"
+		},
+		{
+			"package": "RadioGroup"
+		},
+		{
+			"package": "Image"
+		},
+		{
+			"package": "Container"
+		},
+		{
+			"package": "Text"
+		},
+		{
+			"package": "TextInput"
+		},
+		{
+			"package": "Button"
+		},
+		{
+			"file": "styles/index.css"
+		},
+		{
+			"file": "prototype/application.css",
+			"path": "WEBFOLDER"
+		},
+		{
+			"file": "application.css"
+		},
+		{
+			"file": "scripts/index.js"
+		}
+	]
+}

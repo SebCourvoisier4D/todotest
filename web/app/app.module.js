@@ -1,0 +1,1 @@
+var todoApp = angular.module('todo', ['ui.router', 'wakanda'])
